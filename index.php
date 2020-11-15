@@ -2,8 +2,8 @@
 include_once 'assets/cron/timer.php';
 include_once 'assets/cron/players.php';
 
-$ip = '45.88.110.104'; // IP Server
-$port = '30166'; // TCP Port Server
+$ip = 'localhost'; // IP Server
+$port = '30120'; // TCP Port Server
 $sel = FivemQueryPlayers($ip, $port);
 
 header ("Content-type: image/png");
@@ -15,5 +15,5 @@ $font = 'assets/font/sourcesans.ttf';//font that is taken
 imagettftext($banner, 32, 0, 465, 234, $color, $font, $players);
 imagettftext($banner, 32, 0, 744, 234, $color, $font, $restarttime);
 
-ImagePNG ($banner); 
+ImagePNG ($banner);
 ?>
