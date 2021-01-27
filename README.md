@@ -3,7 +3,8 @@
 # PHP FiveM / Teamspeak Banner
 
 A simple banner that shows small server information in the banner.
-[Custom Development Request](https://discord.gg/kFEyQAt) |
+</div>
+[Custom Development Request](https://discord.gg/kFEyQAt)
 
 </div>
 
