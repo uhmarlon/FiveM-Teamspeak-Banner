@@ -3,13 +3,12 @@
 # PHP FiveM / Teamspeak Banner
 
 A simple banner that shows small server information in the banner.
-<br>
-[Custom Development Request](https://discord.gg/kFEyQAt)
 
 </div>
 
 [Twitter](https://twitter.com/1UhMarlon) |
-[Steam](https://steamcommunity.com/profiles/76561198162177248)
+[Steam](https://steamcommunity.com/profiles/76561198162177248) |
+[UhMarlon#4062](https://discord.gg/kFEyQAt)
 
 ## Features
 
